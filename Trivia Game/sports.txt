@@ -1,0 +1,76 @@
+What’s the diameter of a basketball hoop in inches? Enter just the number.
+18
+How long is an Olympic sized swimming pool in meters? Enter just the number.
+50
+In professional basketball, how high is the basketball hoop from the ground in feet? Enter just the number.
+10
+What is the circumference of a baseball in inches? Enter just the number.
+9
+The Olympics are held every how many years? Enter just the number.
+4
+How many medals did China win at the Beijing Olympics in 2008? Enter just the number.
+100
+How many Olympic games were held in countries that no longer exist? Enter the number.
+3
+What sport is dubbed the ‘king of sports’?
+soccer
+What do you call it when a player makes three back to back strikes in bowling?
+turkey
+In American Football, a touchdown is worth how many points? Enter just the number.
+6
+What is Canada’s national summer sport?
+lacrosse
+How many players are on a baseball team? Enter just the number.
+9
+Before 1894, basketball games were played with what sort of ball?
+soccer ball
+What number is next (right) to the number ‘20’ on a standard British dart board?
+1
+What African country was the first ever to qualify for a World Cup?
+egypt
+The dimples on a golf ball give in traction on the terrain. How many dimples does an average golf ball have? Enter just the number.
+336
+How many total minutes of action are there in an average baseball game? Enter just the number.
+18
+What country has competed the most times in the summer Olympics without winning a gold medal?
+philippines
+What country has competed the most times in the summer Olympics without winning any medal at all?
+liechtenstein
+How many minutes was the longest recorded point in the history of tennis? Enter just the number.
+29
+How many minutes is a round in boxing? Enter just the number.
+3
+What's the highest score in a gymnastics exercise? Enter just the number.
+10
+How many coloured balls are there in billiards? Enter just the number.
+15
+How many players are there in a basketball team? Enter just the number.
+5
+How many lanes does an olympic swimming pool have? Enter just the number.
+8
+How many squares are there on a chess board? Enter just the number.
+64
+What colour starts first in chess?
+white
+How many events are there in the decathlon? Enter just the number.
+10
+How many players are there in a volleyball team? Enter just the number.
+6
+Where were the last Olympics of the 20th century in the USA held?
+atlanta
+How many 20th century Olympics were held in Los Angeles? Enter just the number.
+2
+In basketball, where do the Suns come from? 
+phoenix
+In football, what do the letters NFL stand for? 
+national football league
+The Davis Cup is competed for in which sport? 
+tennis
+Who was the opening canadian flag bearer at rio olympics 2016? Enter their first and last name.
+rosie macLennan
+Which city will host the 2024 Summer Olympics?
+paris
+Who was the closing canadian flag bearer at rio olympics 2016. Enter their first and last name.
+penny oleksiak
+What does nba stand for?
+national basketball association

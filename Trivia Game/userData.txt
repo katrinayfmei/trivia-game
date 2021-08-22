@@ -1,0 +1,22 @@
+This file stores user data.
+
+anna and nina played 4 rounds of trivia.
+anna finished with a score: 0
+nina finished with a score: -2
+
+
+kat and anna played 7 rounds of trivia.
+kat finished with a score: 4
+anna finished with a score: 3
+
+
+sam and sara played 10 rounds of trivia.
+sara finished with a score: 5
+sam finished with a score: -1
+
+
+ava and nicole played 5 rounds of trivia.
+ava finished with a score: -5
+nicole finished with a score: 2pop and pop played 1 rounds of trivia.
+
+
